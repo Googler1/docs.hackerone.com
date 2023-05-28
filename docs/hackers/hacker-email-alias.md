@@ -18,7 +18,8 @@ All hackers have an email alias on HackerOne that forwards any emails to the ema
 
 You can have multiple email aliases tied to your HackerOne account. This enables you to create multiple test accounts on a program to be able to test different attack vectors on different account levels without having to create multiple HackerOne profile accounts.
 
-You can create multiple email aliases through using **`[username]+[any_identifier]@wearehackerone.com`**. You can put anything you want behind the `+` sign to accommodate your needs. For instance, if you set up a test account using your default alias, `jobert@wearehackerone.com`, you can use `jobert+test2@wearehackerone.com` to create another test account.
+You can create multiple email aliases through using **`[isaacw
+]+[any_identifier]@wearehackerone.com`**. You can put anything you want behind the `+` sign to accommodate your needs. For instance, if you set up a test account using your default alias, `jobert@wearehackerone.com`, you can use `jobert+test2@wearehackerone.com` to create another test account.
 
 ### FAQs
 
